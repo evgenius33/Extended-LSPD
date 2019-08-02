@@ -5,4 +5,4 @@ Video: https://streamable.com/ysz6o
 ## Installation
 
  1. Add the `phxlspd` and `lspdloader` folders to your FiveM resources directory
- 2. Edit your server.cfg and add `start phxlsmc`, `start lspdloader`
+ 2. Edit your server.cfg and add `start phxlspd`, `start lspdloader`
